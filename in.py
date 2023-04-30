@@ -3,4 +3,4 @@ number=int(input("enter the number"))
 if number  in mylist:
     print("number is present")
 else:
-    print("number is  absent ")
+    print("number is not  present ")
